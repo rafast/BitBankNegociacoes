@@ -26,3 +26,9 @@ A aplicação consiste em armazenar os dados de uma negociação tanto na tabela
 
 ## 📁 Acesso ao projeto
 Você pode acessar os arquivos do projeto clicando [aqui](https://github.com/rafast/BitBankNegociacoes).
+
+## 🛠️ Abrir e rodar o projeto
+
+- O projeto requer o NodeJs na versão 16
+- Após baixado os arquivos, através do terminal acessar pasta /server e rodar o projeto usando o comando: node index.js
+- Acesse a página inicial através da url: http://localhost:3000/
